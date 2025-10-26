@@ -22,5 +22,5 @@ The program:
    The Sum is: 12  
 
 ## Author
-**Hammad Haider**
-*Computer Science Student*
+**Hammad Haider**  
+Computer Science Student
