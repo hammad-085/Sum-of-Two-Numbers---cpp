@@ -23,4 +23,4 @@ The program:
 
 ## Author
 **Hammad Haider**
-(Computer Science Student)
+*Computer Science Student*
